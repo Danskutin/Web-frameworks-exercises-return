@@ -1,0 +1,11 @@
+{
+    "purchases": [
+        {
+            "invoiceId": "",
+            "customerId": "",
+            "productName": "Test Game",
+            "price": 59,
+            "dateOfArrival": "Sep 29, 2021, 03:03 PM"
+        }
+    ]
+}

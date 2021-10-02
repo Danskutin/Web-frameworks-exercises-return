@@ -1,0 +1,93 @@
+.headerBackground {
+    background-color: lightsteelblue;
+    position: relative;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    width: 80%;
+    color: white;
+    height: 70px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+
+}
+
+.brand {
+    color: black;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.logo {
+    color: blue;
+}
+
+.sitesBar{
+    position: relative;
+    left: 30px;
+
+}
+
+.sites:hover {
+    float: left;
+    margin-right: 20px;
+    color: black;
+    border-top-left-radius: 10px;
+    box-shadow: inset 30px 0 0 0 white;
+    transition: ease-out 0.5s;
+    outline: none;
+}
+
+.sites {
+    float: left;
+    margin-right: 20px;
+    color: white;
+    transition: ease-in 0.3s;
+    outline: none;
+}
+
+.options {
+    display: flex;
+    position: relative;
+    left: 80px;
+}
+
+.login {
+    float: left;
+    position: relative;
+    color: rgb(0, 25, 76);
+    background-color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    margin-right: 30px;
+}
+
+.help {
+    float: left;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    left: 105px;
+    margin-right: 20px;
+}
+
+.menu {
+    position: absolute;
+    text-align: center;
+    top: 4px;
+    left: 190px;
+    margin-right: 20px;
+    border: 1px solid;
+    padding: 5px 5px 2px 2px;
+    border-radius: 3px;
+}

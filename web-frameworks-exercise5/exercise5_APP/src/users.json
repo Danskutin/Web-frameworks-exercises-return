@@ -1,0 +1,10 @@
+{
+    "users": [
+        {
+            "customerId": "",
+            "name": "Test User",
+            "age": 30,
+            "address": "Test Street 123"
+        }
+    ]
+}

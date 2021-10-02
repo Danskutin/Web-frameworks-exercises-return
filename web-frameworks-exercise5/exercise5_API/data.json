@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "DiRT Rally 2.0",
+      "developer": "Codemasters",
+      "publisher": "Codemasters",
+      "gconsole": "Xbox One",
+      "genre": "Racing",
+      "price": 26.39,
+      "rating": 4.5,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fjogorama.com.br%2Farquivos%2Fcapas%2F7896.jpg&f=1&nofb=1",
+      "info": [
+        "Day One Edition includes the game + 3 DLC Cars (Porsche 911 RGT Rally Spec, Fiat 131 Abarth Rally, Alpine Renault A110 1600 S)",
+        "The official game of the FIA World Rallycross Championship",
+        "Take the wheel through stunning environments of New Zealand, Argentina, Spain, Poland, Australia and the USA with an iconic roster of over 50 historic and modern-day rally cars",
+        "Improved handling, surfaces, fallibility and environments deliver the most authentic and focused off-road experience ever",
+        "Build your team, expand your own garage of vehicles, manage a roster of staff and develop your Service Area facilities"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "No Man's Sky Beyond",
+      "developer": "Hello Games",
+      "publisher": "Hello Games",
+      "gconsole": "Playstation 4",
+      "genre": "Adventure",
+      "price": 51.00,
+      "rating": 4.6,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamereleasedates.net%2Fimages%2Fcovers%2Fps4%2Fcover-ps4-no-mans-sky-beyond.jpg&f=1&nofb=1",
+      "info": [
+        "EXPLORE THE UNKNOWN - Explore uncharted solar systems and catalogue unique new forms of life",
+        "SURVIVE ON A DANGEROUS FRONTIER - Battle attack ships, fend off dangerous predators, and survive in hazardous environments. Every encounter will test your skills to the limit",
+        "PREPARE FOR AN EPIC JOURNEY - How you play No Man’s Sky is up to you, but you shouldn’t take your voyage lightly. Collect precious resources on the surfaces of planets, trade them with alien races and build the equipment that will take you to your destiny in the stars"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Human: Fall Flat Anniversary Edition",
+      "developer": "No Brakes Games",
+      "publisher": "Curve Digital",
+      "gconsole": "Xbox One",
+      "genre": "Platformer",
+      "price": 25.00,
+      "rating": 4.7,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamereleasedates.net%2Fimages%2Fcovers%2Fxboxone%2Fcover-xboxone-human-fall-flat-anniversary-edition.jpg&f=1&nofb=1",
+      "info": [
+        "A Blank canvas: your human is yours to customize. With outfits from Builder to chef, skydiver, Miner, astronaut and Ninja. Choose your head, Upper and Lower body and get creative with the colors!",
+        "A vibrant community: streamers and YouTube flock to human fall flat for its unique, hilarious gameplay. Fans have watched these videos more than 0.6 billion times!",
+        "Thermal: it's a Gold prospector's dream come true in the frozen mountains of 'thermal', the brand new gold-filled level for human fall flat."
+      ]
+    },
+    {
+      "id": "4",
+      "name": "SnowRunner",
+      "developer": "Saber Interactive",
+      "publisher": "Focus Home Interactive",
+      "gconsole": "Xbox One",
+      "genre": "Racing",
+      "price": 30.84,
+      "rating": 4.6,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.gamestop.com%2Fi%2Fgamestop%2F11099590%2FSnowRunner&f=1&nofb=1",
+      "info": [
+        "Face extreme environments in a highly advanced physics engine",
+        "40 unique vehicles to unlock, upgrade, and customize",
+        "Complete dozens of challenging missions across an interconnected world",
+        "Go solo or play with other players in 4-player co-op"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Driveclub VR",
+      "developer": "Evolution Studios",
+      "publisher": "Sony Computer Entertainment",
+      "gconsole": "Playstation 4",
+      "genre": "Racing",
+      "price": 21.00,
+      "rating": 4.5,
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.pushsquare.com%2Fgames%2Fps4%2Fdriveclub_vr%2Fcover_large.jpg&f=1&nofb=1",
+      "info": [
+        "Get behind the wheel as DRIVECLUB revs its engines for a follow-up season of edge-of-your-seat racing.",
+        "Combining the stunning graphical power and interconnectivity of PlayStation 4 with the unparalleled immersion of PlayStation VR, DRIVECLUB VR transports you to some of world's most stunning locales in some of the world's most powerful production cars.",
+        "Experience Canada's Fraser Valley or Japan's serene Lake Shoji like never before, with a brand new suite of features including a \"cruise control\" mode that will let you take in the sights at your leisure and \"Virtual Passenger\" that will let you relive your best laps from the passenger seat.",
+        "A new selection of urban tracks swells the total number to a staggering 114. Strap into one of 80 iconic high-performance cars to screech through corners, blaze along straights and fight the finish line as though you could reach out and touch it."
+      ]
+    }
+  ]
+}
