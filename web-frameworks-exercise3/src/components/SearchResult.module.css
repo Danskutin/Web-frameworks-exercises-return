@@ -1,0 +1,22 @@
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+.publisher
+{
+  color: #333333
+}
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+}
+.image
+{
+  width: 300px;
+  height: 400px;
+}

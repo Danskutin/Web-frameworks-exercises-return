@@ -1,0 +1,5 @@
+.showProducts
+{
+  display: flex;
+  flex-wrap: wrap;
+}
