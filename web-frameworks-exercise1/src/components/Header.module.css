@@ -1,0 +1,79 @@
+.headerBackground {
+    background-color: rgb(0, 25, 76);
+    position: relative;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    width: 80%;
+    color: white;
+    height: 70px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+
+    font-family: 'Helsingin', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+
+}
+
+.brand {
+    position: relative;
+    font-family: 'Helsingin', Times, serif;
+    font-size: 24px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.sitesBar{
+    position: relative;
+    left: 30px;
+
+}
+
+.sites {
+    position: relative;
+    border-left: 30px;
+    margin-right: 15px;
+    float: left;
+}
+
+.options {
+    display: flex;
+    position: relative;
+    left: 80px;
+}
+
+.subscribe {
+    position: relative;
+    color: rgb(0, 25, 76);
+    background-color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.login {
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    left: 95px;
+    margin-right: 20px;
+}
+
+.menu {
+    position: absolute;
+    text-align: center;
+    top: 4px;
+    left: 160px;
+    margin-right: 20px;
+    border: 1px solid;
+    padding: 5px 30px 2px 2px;
+    border-radius: 3px;
+}
+
+.menuImg {
+    
+}

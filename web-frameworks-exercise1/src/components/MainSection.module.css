@@ -1,0 +1,261 @@
+.container {
+    background-color: white;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+
+    display: flex;
+    align-items: flex-start;
+    float: left;
+
+    height: 1000px;
+    width: 60%;
+
+    margin-left: 3%;
+    margin-right: 1%;
+    margin-bottom: 15px;
+    
+    padding: 10px;
+
+    position: relative;
+
+    border-top: 2px solid black;
+  
+}
+
+.background {
+    position: relative;
+    background-color: rgb(124, 80, 80);
+}
+
+.header {
+    color: black;
+    font-family: 'Arial, Helvetica, sans-serif';
+    font-size: 26px;
+    font-weight: 900;
+}
+
+.img {
+    position: absolute;
+    top: 55px;
+    width: 605px;
+    height: 350px;
+}
+
+.hsLive {
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+    position: absolute;
+    top: 420px;
+    left: 35px;
+
+}
+
+.hsLiveShape {
+    position: absolute;
+    background-color: rgb(184, 8, 8);
+    padding: 7px;
+    border-radius: 50%;
+    opacity: 30%;
+    top: 422px;
+    left: 12px;
+}
+
+.newsTitle {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    position: absolute;
+    top: 440px;
+    display: inline-block;
+}
+
+.newsType {
+    color: rgb(42, 42, 177);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.newsInfo {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 16px;
+    font-weight: bolder;
+    position: absolute;
+    top: 550px;
+    display: inline-block;
+}
+
+
+.statsText1 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 16px;
+    position: absolute;
+    top: 570px;
+    left: 10px;
+    width: 15%;
+}
+
+.statsNums1 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 28px;
+    font-weight: bolder;
+    position: absolute;
+    top: 610px;
+    left: 10px;
+}
+
+.statsText2 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 16px;
+    text-align: right;
+    position: absolute;
+    top: 570px;
+    left: 310px;
+    width: 15%;
+}
+
+.statsNums2 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 28px;
+    font-weight: bolder;
+    position: absolute;
+    top: 610px;
+    left: 365px;
+}
+
+.statsText3 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 16px;
+    text-align: right;
+    position: absolute;
+    top: 570px;
+    left: 470px;
+    width: 15%;
+}
+
+.statsNums3 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 28px;
+    font-weight: bolder;
+    position: absolute;
+    top: 610px;
+    left: 525px;
+}
+
+.statsText4 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 16px;
+    position: absolute;
+    top: 660px;
+    left: 10px;
+}
+
+.statsNums4 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 28px;
+    font-weight: bolder;
+    position: absolute;
+    top: 680px;
+    left: 10px;
+}
+
+.statsNums5 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 28px;
+    font-weight: bolder;
+    position: absolute;
+    top: 680px;
+    left: 390px;
+}
+
+.statsNums6 {
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 28px;
+    font-weight: bolder;
+    position: absolute;
+    top: 680px;
+    left: 552px;
+}
+
+.divider1 {
+    position: absolute;
+    top: 625px;
+    opacity: 10%;
+    background-color: white;
+    color: black;
+    font-family: 'Samomat';
+    font-size: 24px;
+    font-weight: 900;
+
+    display: flex;
+    align-items: center;
+    float: left;
+    
+    
+    width: 86%;
+
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px; */
+
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+
+.divider2 {
+    position: absolute;
+    top: 695px;
+    opacity: 10%;
+    background-color: white;
+    color: black;
+    font-family: 'Samomat';
+    font-size: 24px;
+    font-weight: 900;
+
+    display: flex;
+    align-items: center;
+    float: left;
+    
+    
+    width: 86%;
+
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px; */
+
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+
+.triangle1 {
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 11px solid red;
+    position: absolute;
+    top: 620px;
+    left: 345px;
+}
+
+.triangle2 {
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 11px solid red;
+    position: absolute;
+    top: 690px;
+    left: 365px;
+}

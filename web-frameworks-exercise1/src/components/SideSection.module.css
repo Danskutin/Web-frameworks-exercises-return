@@ -1,0 +1,43 @@
+.container {
+    position: relative;
+    background-color: white;
+    color: black;
+    font-family: 'Sanomat';
+    font-size: 14px;
+
+    display: flex;
+    align-items: center;
+    float: left;
+    
+    width: 29%;
+
+    padding: 10px;
+    border-bottom: 1px solid grey;
+
+}
+
+.header {
+    color: rgb(20, 115, 139);
+    font-size: 30px;
+    font-weight: 550;
+    font-family: 'Sanomat';
+    padding: 10px 15px;
+    
+    position: relative;
+    bottom: 12px;
+    right: 5px;
+
+}
+
+.topic {
+    position: relative;
+    font-weight: 900;
+    font-family: 'Helsingin';
+
+}
+
+.body {
+    position: relative;
+    color: black;
+    font-family: 'Helsingin';
+}

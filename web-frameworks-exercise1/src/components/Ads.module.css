@@ -1,0 +1,19 @@
+.header{
+    position: relative;
+    font-size: 18px;
+    font-weight: 700;
+
+
+    
+}
+.container {
+    position: relative;
+    background-color: rgb(50, 177, 199);
+    color: white;
+    padding: 20px;
+    margin-top: 3px;
+    margin-bottom: 15px;
+    margin-left: 3%;
+    float: left;
+    width: 90%;
+}
